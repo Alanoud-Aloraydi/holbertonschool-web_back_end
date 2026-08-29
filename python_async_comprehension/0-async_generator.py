@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 """Provide an asynchronous generator of random floating-point values."""
-
 import asyncio
 import random
 from typing import AsyncGenerator
