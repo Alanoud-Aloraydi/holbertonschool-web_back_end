@@ -1,0 +1,2 @@
+// Select the my_db database, creating it when data is first stored.
+use my_db
